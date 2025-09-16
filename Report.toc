@@ -1,0 +1,21 @@
+\contentsline {chapter}{Abstract}{i}{}%
+\contentsline {chapter}{Acknowledgement}{ii}{}%
+\contentsline {chapter}{Index}{iii}{}%
+\contentsline {chapter}{List of Figures}{iv}{}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{}%
+\contentsline {chapter}{\numberline {2}HISTORY AND EVOLUTION OF SOCIAL MEDIA}{4}{}%
+\contentsline {chapter}{\numberline {3}LITERATURE SURVEY }{7}{}%
+\contentsline {section}{\numberline {3.1} Need of Soial Media}{7}{}%
+\contentsline {section}{\numberline {3.2} Role of security in social media}{7}{}%
+\contentsline {section}{\numberline {3.3}Access and usage of Social Media}{7}{}%
+\contentsline {section}{\numberline {3.4} Social media challenges and security risks}{8}{}%
+\contentsline {chapter}{\numberline {4} CYBER SECURITY}{10}{}%
+\contentsline {section}{\numberline {4.1}How does Cyber Security make working so easy? }{11}{}%
+\contentsline {section}{\numberline {4.2}Cyber Ethics}{11}{}%
+\contentsline {chapter}{\numberline {5} ROLE OF CYBER SECURITY IN SOCIAL MEDIA }{13}{}%
+\contentsline {section}{\numberline {5.1}Cyber Crime}{14}{}%
+\contentsline {chapter}{\numberline {6}ADVANTAGES AND DISADVANTAGES}{15}{}%
+\contentsline {section}{\numberline {6.1}Advantages}{15}{}%
+\contentsline {section}{\numberline {6.2}Disadvantages}{15}{}%
+\contentsline {chapter}{\numberline {7}CONCLUSION}{16}{}%
+\contentsline {chapter}{REFERENCES}{17}{}%
