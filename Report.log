@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.10)  16 SEP 2025 20:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.10)  18 SEP 2025 04:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -338,33 +338,43 @@ LaTeX Warning: Label `atcres' multiply defined.
 LaTeX Warning: Label `atcres' multiply defined.
 
 ) (Abstract.aux) (Acknowledgement.aux) (Index.aux) (chapter1.aux) (chapter2.aux
-) (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux
 
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
+LaTeX Warning: Label `fig:enter-label' multiply defined.
 
 
-LaTeX Warning: Label `' multiply defined.
+LaTeX Warning: Label `fig:enter-label' multiply defined.
 
-) (chapter7.aux) (chapter8.aux) (conclusion.aux))
+) (chapter3.aux
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+) (chapter4.aux) (chapter5.aux) (chapter6.aux
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+) (chapter7.aux) (chapter8.aux) (chapter9.aux) (conclusion.aux))
 \openout1 = `Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 (C:\Users\HP\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -503,7 +513,7 @@ Package pdftex.def Info: ./University.PNG  used on input line 8.
 \openout2 = `Abstract.aux'.
 
  (Abstract.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 5--44
+Underfull \hbox (badness 10000) in paragraph at lines 5--43
 
  []
 
@@ -542,11 +552,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--19
 ]
 \openout2 = `Index.aux'.
 
- (Index.tex) (Report.toc)
-\tf@toc=\write4
-\openout4 = `Report.toc'.
-
-
+ (Index.tex) (Report.toc
 
 [3
 
@@ -555,13 +561,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--19
 
 
 
-] (Report.lof)
+])
+\tf@toc=\write4
+\openout4 = `Report.toc'.
+
+
+
+[4] (Report.lof)
 \tf@lof=\write5
 \openout5 = `Report.lof'.
 
 
 
-[4
+[5
 
 ]
 \openout2 = `chapter1.aux'.
@@ -569,17 +581,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--19
  (chapter1.tex
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--26
-
- []
-
-<AT.png, id=32, 557.4426pt x 350.7504pt>
-File: AT.png Graphic file (type png)
-<use AT.png>
-Package pdftex.def Info: AT.png  used on input line 75.
-(pdftex.def)             Requested size: 416.83315pt x 262.2754pt.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 27--53
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
@@ -589,114 +591,95 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--53
 
 
 ]
+<QAI.png, id=39, 2544.50626pt x 1812.7725pt>
+File: QAI.png Graphic file (type png)
+<use QAI.png>
+Package pdftex.def Info: QAI.png  used on input line 15.
+(pdftex.def)             Requested size: 416.83315pt x 296.93703pt.
+)
 
-[2 <./AT.png>]
-
-[3]
+[2 <./QAI.png>]
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
 Chapter 2.
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \hspace
-            *{0.3in}Its being protected by internet-connected systems, inclu...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+<qubit.png, id=45, 614.295pt x 614.295pt>
+File: qubit.png Graphic file (type png)
+<use qubit.png>
+Package pdftex.def Info: qubit.png  used on input line 6.
+(pdftex.def)             Requested size: 250.10242pt x 250.10037pt.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[3
+
+
+
+
+ <./qubit.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
-
- []
-
-
-
-[4
-
-
-
-
-])
-Underfull \hbox (badness 10000) in paragraph at lines 38--54
-
+<nisq.png, id=49, 1355.0625pt x 435.6275pt>
+File: nisq.png Graphic file (type png)
+<use nisq.png>
+Package pdftex.def Info: nisq.png  used on input line 16.
+(pdftex.def)             Requested size: 416.83315pt x 134.00616pt.
+)
+Overfull \hbox (1.48071pt too wide) in paragraph at lines 13--53
+| \OT1/cmr/m/n/10.95 The near-term re-al-ity of QC is shaped by Noisy Intermedi
+ate-Scale Quan-tum (NISQ)
  []
 
 
 
-[5]
-
-[6]
+[4 <./nisq.png (PNG copy)>]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
 Chapter 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--15
-
- []
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32 \section
-             {Access and usage of Social Media}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+<qnlp.png, id=53, 277.33612pt x 76.42552pt>
+File: qnlp.png Graphic file (type png)
+<use qnlp.png>
+Package pdftex.def Info: qnlp.png  used on input line 14.
+(pdftex.def)             Requested size: 416.83315pt x 114.87587pt.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--79
-
- []
-
-
-
-[7
+[5
 
 
 
 
 ]
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 109--120
-
- []
-
+[6 <./qnlp.png>]
+<qt351.png, id=61, 813.0375pt x 657.45625pt>
+File: qt351.png Graphic file (type png)
+<use qt351.png>
+Package pdftex.def Info: qt351.png  used on input line 28.
+(pdftex.def)             Requested size: 375.14728pt x 303.35649pt.
 )
 
-[9]
+[7 <./qt351.png>]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
 Chapter 4.
+)
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--55
-
- []
+[8
 
 
+
+
+]
+
+[9]
+\openout2 = `chapter5.aux'.
+
+ (chapter5.tex
+Chapter 5.
+)
 
 [10
 
@@ -705,349 +688,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--55
 
 ]
 
-[11])
-
-[12]
-\openout2 = `chapter5.aux'.
-
- (chapter5.tex
-Chapter 5.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--37
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--75
-
- []
-
-
-
-[13
-
-
-
-
-])
-
-[14]
+[11]
 \openout2 = `chapter6.aux'.
 
  (chapter6.tex
 Chapter 6.
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \bibitem{}
-              It helps protect your personal information from unauthorized a...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 3
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.3 \bibitem{}
-              It helps protect your personal information from unauthorized a...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.3 \bibitem{}
-              It helps protect your personal information from unauthorized a...
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \bibitem{}
-              It reduces the risk of falling victim to cyber threats like ph...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 5
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.5 \bibitem{}
-              It reduces the risk of falling victim to cyber threats like ph...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.5 \bibitem{}
-              It reduces the risk of falling victim to cyber threats like ph...
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 \bibitem{}
-              By implementing strong security measures, it helps prevent ide...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 7
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.7 \bibitem{}
-              By implementing strong security measures, it helps prevent ide...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.7 \bibitem{}
-              By implementing strong security measures, it helps prevent ide...
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
-
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \bibitem{}
-               cyber security measures provide a safer and more secure onlin...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 10
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.10 \bibitem{}
-               cyber security measures provide a safer and more secure onlin...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.10 \bibitem{}
-               cyber security measures provide a safer and more secure onlin...
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
-
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \bibitem{1}
-                There are no specific disadvantages of cyber security for so...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 14
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.14 \bibitem{1}
-                There are no specific disadvantages of cyber security for so...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.14 \bibitem{1}
-                There are no specific disadvantages of cyber security for so...
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--16
-
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \bibitem{2}
-                Additionally, certain security measures might limit the func...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 17
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.17 \bibitem{2}
-                Additionally, certain security measures might limit the func...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.17 \bibitem{2}
-                Additionally, certain security measures might limit the func...
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--19
-
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 \bibitem{3}
-                One potential disadvantage could be that strict security mea...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 20
-[][]
- []
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.20 \bibitem{3}
-                One potential disadvantage could be that strict security mea...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.20 \bibitem{3}
-                One potential disadvantage could be that strict security mea...
-I'm forgetting what you said and using zero instead.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
-
- []
-
+<qnlpD.jpg, id=79, 458.1918pt x 57.816pt>
+File: qnlpD.jpg Graphic file (type jpg)
+<use qnlpD.jpg>
+Package pdftex.def Info: qnlpD.jpg  used on input line 5.
+(pdftex.def)             Requested size: 416.83315pt x 52.59674pt.
+<qnlpG.jpg, id=80, 426.8748pt x 85.0377pt>
+File: qnlpG.jpg Graphic file (type jpg)
+<use qnlpG.jpg>
+Package pdftex.def Info: qnlpG.jpg  used on input line 12.
+(pdftex.def)             Requested size: 416.83315pt x 83.0431pt.
 )
 
-[15
+[12
 
 
 
 
-]
+ <./qnlpD.jpg> <./qnlpG.jpg>]
+
+[13]
 \openout2 = `chapter7.aux'.
 
  (chapter7.tex
 Chapter 7.
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--33
-
- []
-
 )
 
-[16
+[14
 
 
 
@@ -1055,113 +727,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--33
 ]
 \openout2 = `chapter8.aux'.
 
- (chapter8.tex)
-\openout2 = `conclusion.aux'.
-
- (conclusion.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
-[]\OT1/cmr/m/n/9 S. R. Zee-ba-reea, S. Y. Ameen and M. A. M. Sadeeq, "So-cial M
-e-dia Net-
- []
+ (chapter8.tex
+Chapter 8.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
-\OT1/cmr/m/n/9 works Se-cu-rity Threats, Risks and Rec-om-men-da-tion: A Case S
-tudyin the
- []
+[15
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
-\OT1/cmr/m/n/9 Kur-dis-tan-Re-gion,"2020.[Online].Available:https://www.researc
-hgate.net /pub-li-ca-
- []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
-\OT1/cmr/m/n/9 tion/342693220[]Social[]Media[]Networks[]Security[]Threats[]Risk
-s[]and[]Recommendation[]A[]Case[]S
- []
+])
 
+[16]
+\openout2 = `chapter9.aux'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
+ (chapter9.tex
+Chapter 9.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--79
-[]\OT1/cmr/m/n/9 R. Shevchuk and Y. Pas-tukh , "In-ves-ti-ga-tion of so-cial me
--dia se-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--79
-\OT1/cmr/m/n/9 cu-rity : A Crit-i-cal-Re-view". 439-442. 10.1109/ACITT.2019.877
-9963.,"
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--79
-\OT1/cmr/m/n/9 2019. [On-line]. Avail-able:https://www.researchgate.net/publica
-tion/334891408
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--79
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--85
-\OT1/cmr/m/n/9 Avail-able:https://www.researchgate.net/publication/328896849 []
-Role[]of[]Social5[]Networks[]in[]E-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--89
-[]\OT1/cmr/m/n/9 Z. Y. Alqubaiti, "The Para-dox of So-cial Me-dia Se-cu-rity: A
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--89
-\OT1/cmr/m/n/9 Study of IT Stu-dents' Per-cep-tions ver-sus Be-hav-ior on Us-in
-g Face-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--89
-\OT1/cmr/m/n/9 book.," [On-line].Available:https://www.researchgate.net/publica
-tion/313566403
- []
-
-
-Overfull \hbox (54.90392pt too wide) in paragraph at lines 86--89
-[]\OT1/cmr/m/n/9 The[]Paradox[]of[]Social[]Media[]Security[]A[]Study[]of[]IT[]S
-tudents'[]Perceptions[]versus[]Behavior[]on[]Using[]Facebook.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--89
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
+)
+Underfull \hbox (badness 10000) in paragraph at lines 4--60
 
  []
 
@@ -1172,15 +760,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--97
 
 
 
+]
+\openout2 = `conclusion.aux'.
+
+ (conclusion.tex)
+Underfull \hbox (badness 2564) in paragraph at lines 67--68
+[]\OT1/cmr/m/n/9 Vanessa Garc^^S^^Pa Pineda, Ale-jan-dro Valencia-Arias, Fran-c
+isco Eu-ge-nio L^^Sopez Gi-raldo, Edi-
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 67--68
+\OT1/cmr/m/n/9 son Andr^^Ses Zapata-Ochoa, "In-te-grat-ing Ar-ti-fi-cial In-tel
+-li-gence and Quan-tum Com-put-ing:
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 67--68
+\OT1/cmr/m/n/9 A Sys-tem-atic Lit-er-a-ture Re-view of Fea-tures and Ap-pli-ca-
+tions," 2025. [On-line]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 77--78
+[]\OT1/cmr/m/n/9 Jin, Yirong, "Google's 'Wil-low' Quan-tum Pro-ces-sor: New RCS
+ Record, and First Er-ror
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 81--82
+[]\OT1/cmr/m/n/9 Pallavi Gun-dala, Prasanna Ku-mar Ran-gara-jan, "Quan-tum Nat-
+u-ral Lan-guage Pro-cess-
+ []
+
+
+Underfull \hbox (badness 7944) in paragraph at lines 81--82
+\OT1/cmr/m/n/9 ing and Its Ap-pli-ca-tions," Fron-tiers in Com-puter Sci-ence, 
+2025. [On-line]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 83--84
+[]\OT1/cmr/m/n/9 Quantum News, "Quan-tum Com-put-ing Ap-pli-ca-tions: Drug Dis-
+cov-ery," Quan-tum Zeit-geist,
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 83--84
+\OT1/cmr/m/n/9 2024. [On-line]. Avail-able: https://quantumzeitgeist.com/quantu
+m-computing-applications-drug-
+ []
+
+
+
+[18
 
 
 
 
 
-] (Report.aux (titlepage.aux) (certificate.aux) (unicertificate.aux)
+
+]
+Underfull \hbox (badness 3872) in paragraph at lines 91--92
+\OT1/cmr/m/n/9 nal of Sci-en-tific Re-search and Man-age-ment, vol. 12, no. 8, 
+2024. [On-line]. Avail-able:
+ []
+
+
+
+[19] (Report.aux (titlepage.aux) (certificate.aux) (unicertificate.aux)
 (Abstract.aux) (Acknowledgement.aux) (Index.aux) (chapter1.aux) (chapter2.aux)
 (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux) (chapter7.aux)
-(chapter8.aux) (conclusion.aux))
+(chapter8.aux) (chapter9.aux) (conclusion.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
@@ -1191,24 +842,25 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 8503 strings out of 468132
- 140267 string characters out of 5432143
- 564963 words of memory out of 5000000
- 36931 multiletter control sequences out of 15000+600000
- 632363 words of font info for 59 fonts, out of 8000000 for 9000
+ 8573 strings out of 468132
+ 141696 string characters out of 5432143
+ 563372 words of memory out of 5000000
+ 36993 multiletter control sequences out of 15000+600000
+ 632704 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,9n,67p,1148b,377s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
-x10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr8.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on Report.pdf (24 pages, 730335 bytes).
+ 68i,10n,67p,966b,405s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\HP\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm109
+5.pk><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmmi10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on Report.pdf (27 pages, 1890525 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
+ 143 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

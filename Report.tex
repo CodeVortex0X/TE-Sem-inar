@@ -13,7 +13,7 @@
 \usepackage{titlesec}
 \usepackage{url}
 \usepackage{amsmath}
-\usepackage {epsfig}
+\usepackage{epsfig}
 \usepackage{enumerate}
 \usepackage[left=3.81cm,top=2.54cm,right=2.54cm,bottom=3.175cm]{geometry}
 \usepackage[utf8]{inputenc}
@@ -34,69 +34,65 @@
 \titleformat{\chapter}[display]
 {\normalfont\large\bfseries\centering}{\chaptertitlename\ \thechapter}{14pt}{\large}
 \titleformat{\section}{\normalsize \bfseries}{\thesection}{1em}{}
+
+\begin{document}
 	
+	\include{titlepage}
+	\include{certificate}
+	\include{unicertificate}
+	\include{Abstract}
+	\include{Acknowledgement}
+	\include{Index}
+	\addcontentsline{toc}{chapter}{Index}
+	\tableofcontents
+	\newpage
+	\addcontentsline{toc}{chapter}{List of Figures}
+	\listoffigures
+	\newpage
+	\include{chapter1}
+	\include{chapter2}
+	\include{chapter3}
+	\include{chapter4}
+	\include{chapter5}
+	\include{chapter6}
+	\include{chapter7}
+	\include{chapter8}
+	\include{chapter9}
+	\include{conclusion}
 	
-	\begin{document}
+	\footnotesize
+	\addcontentsline{toc}{chapter}{REFERENCES}
+	\renewcommand\bibname{References}
+	\begin{thebibliography}{}
+		\item[1] Vanessa García Pineda, Alejandro Valencia-Arias, Francisco Eugenio López Giraldo, Edison Andrés Zapata-Ochoa, "Integrating Artificial Intelligence and Quantum Computing: A Systematic Literature Review of Features and Applications," 2025. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S266630742500035X.  
 		
-		\include{titlepage}
-		\include{certificate}
-		\include{unicertificate}
-		\include{Abstract}
-		\include{Acknowledgement}
-		\include{Index}
-		\addcontentsline{toc}{chapter}{Index}
-		\tableofcontents
-		\newpage
-		\addcontentsline{toc}{chapter}{List of Figures}
-		\listoffigures
-		\newpage	
-		\include{chapter1}
-		\include{chapter2}
-		\include{chapter3}
-		\include{chapter4}
-		\include{chapter5}
-		\include{chapter6}
-		\include{chapter7}
-		\include{chapter8}
-		\include{conclusion}
+		\item[2] Ololade Funke Olaitan, Samuel Oluwabukunmi Ayeni, Adedapo Olosunde, Francis Chukwudalu Okeke, Ugochukwu Udonna Okonkwo, Chukwuemeka George Ochieze, Osinachi Victor Chukwujama, Ogheneruemu Nathaniel Akatakpo, "Quantum Computing and Artificial Intelligence: A Review of Quantum Machine Learning Algorithms," Path of Science, vol. 10, no. 6, 2024. [Online]. Available: https://pathofscience.org/index.php/ps/article/view/3541.  
 		
+		\item[3] Devadas RM, T S., "Quantum Machine Learning: A Comprehensive Review of Integrating AI with Quantum Computing for Computational Advancements," Journal of Computational Science, 2024. [Online]. Available: https://pubmed.ncbi.nlm.nih.gov/40331033/.  
 		
+		\item[4] T. Crosta, L. Rebón, F. Vilariño, J. M. Matera, M. Bilkis, "Automatic Re-calibration of Quantum Devices by Reinforcement Learning," 2024. [Online]. Available: https://arxiv.org/abs/2404.10726.  
 		
+		\item[5] G. Pascoal, J. P. Fernandes and R. Abreu, "Deep Reinforcement Learning Strategies for Noise-Adaptive Qubit Routing," IEEE Transactions on Quantum Engineering, 2024. [Online]. Available: https://ieeexplore.ieee.org/document/10646540/.  
 		
-		\footnotesize
-		\addcontentsline{toc}{chapter}{REFERENCES}
-		\renewcommand\bibname{References}
-		\begin{thebibliography}{}
-			\item[1] S. R. Zeebareea, S. Y. Ameen and M. A. M. Sadeeq, "Social Media Networks Security Threats, Risks and Recommendation: A Case Studyin the KurdistanRegion,"2020.[Online].Available:https://www.researchgate.net
-			/publication/342693220\_Social\_Media\_Networks\_Security\_Threats\_Risks\_and\_Recommendation\_A\_Case\_S
-			tudy\_in\_the\_Kurdistan\_Region. [Accessed 02 August 2020]. \\
-			
-			\item[2] R. Shevchuk and Y. Pastukh , "Investigation of social media security :
-			A CriticalReview". 439-442. 10.1109/ACITT.2019.8779963.," 2019. [Online].
-			Available:https://www.researchgate.net/publication/334891408
-			\_Improve\_the\_Security\_of\_Social\_Media\_Accounts.
-			[Accessed 02 August 2020].\\
-			
-			\item[3]  R. Alguliyev, R. Aliguliyev and F. F. Yusifov,
-			"Role of SocialNetworks in E-government: Risks and Security Threats.,
-			" Online Journal of Communication and Media Technologies., 2018. [Online].
-			Available:https://www.researchgate.net/publication/328896849
-			\_Role\_of\_Social5\_Networks\_in\_E-government\_Risks\_and\_Security\_Threats.[Accessed 10 August 2020]. \\
-			
-			\item[4] Z. Y. Alqubaiti, "The Paradox of Social Media Security: A Study of IT
-			Students’ Perceptions versus Behavior on Using Facebook.," [Online].Available:https://www.researchgate.net/publication/313566403
-			\_The\_Paradox\_of\_Social\_Media\_Security\_A\_Study\_of\_IT\_Students'\_Perceptions\_versus\_Behavior\_on\_Using\_Facebook. [Accessed 09 August 2020].K.Elissa, “Title of paper if known,” unpublished.\\
-			\item[5] P. Goud Kandikanti, "Investigation on Security Issues and Features in
-			Social Media Sites (Face Book, Twitter, \& Google+)", 2017. \\
-			
-			\item[6] A Look back on Cyber Security 2012 by Luis corrons – Panda Labs. \\
-			
-			
-			\item[7] Computer Security Practices in Non Profit Organisations – A NetAction Report by Audrie Krause.
-			\\
-		\end{thebibliography}
+		\item[6] Jin, Yirong, "Google's 'Willow' Quantum Processor: New RCS Record, and First Error Correction Below the Surface Code Threshold," Quantum, vol. 9, 2025. [Online]. Available: https://linkinghub.elsevier.com/retrieve/pii/S2666675825001456.  
 		
+		\item[7] Dominic Widdows, Willie Aboumrad, Dohun Kim, Sayonee Ray, Jonathan Mei, "Natural Language, AI, and Quantum Computing in 2024: Research Ingredients and Directions in QNLP," 2024. [Online]. Available: https://arxiv.org/abs/2403.19758.  
 		
+		\item[8] Pallavi Gundala, Prasanna Kumar Rangarajan, "Quantum Natural Language Processing and Its Applications," Frontiers in Computer Science, 2025. [Online]. Available: https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2025.1464122/full.  
 		
-	\end{document}
+		\item[9] Quantum News, "Quantum Computing Applications: Drug Discovery," Quantum Zeitgeist, 2024. [Online]. Available: https://quantumzeitgeist.com/quantum-computing-applications-drug-discovery/.  
+		
+		\item[10] M. Munshi, R. Gupta, N. K. Jadav, S. Tanwar, A. Nair and D. Garg, "Quantum Machine Learning-Based Lung Cancer Prediction Framework for Healthcare 4.0," IEEE Access, 2024. [Online]. Available: https://ieeexplore.ieee.org/document/10673456/.  
+		
+		\item[11] Sanjai Vudugula, Sanath Kumar Chebrolu, "Quantum AI-Driven Business Intelligence for Carbon-Neutral Supply Chains," African Journal of Advanced Technology and Engineering Studies, vol. 2, no. 1, 2024. [Online]. Available: https://ajates-scholarly.com/index.php/ajates/article/view/16.  
+		
+		\item[12] Google Quantum AI and Collaborators, "Quantum Error Correction Below the Surface Code Threshold," Nature, vol. 631, no. 8021, 2024. [Online]. Available: https://www.nature.com/articles/s41586-024-08449-y.  
+		
+		\item[13] Fasco , Pamba Shatson, "Beyond Boolean Epistemology: A Non-Classical Logic Approach to Understanding Knowledge Formation in Quantum Computing Systems," International Journal of Scientific Research and Management, vol. 12, no. 8, 2024. [Online]. Available: https://ijsrm.net/index.php/ijsrm/article/view/6089.  
+		
+		\item[14] McKinsey \& Company, "The Year of Quantum: From Concept to Reality in 2025," 2025. [Online]. Available: https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-year-of-quantum-from-concept-to-reality-in-2025.  
+		
+		\item[15] SpinQ Team, "Quantum Artificial Intelligence: Unleashing the Next Frontier in Computing," SpinQuanta News, 2024. [Online]. Available: https://www.spinquanta.com/news-detail/quantum-artificial-intelligence-unleashing-the-next-frontier-in-computing-with-spinq.  
+	\end{thebibliography}
 	
+\end{document}

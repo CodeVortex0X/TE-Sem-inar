@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - Integrating artificial intelligence and quantum computing: A systematic literature review of features and applications
+AU  - Pineda, Vanessa García
+AU  - Valencia-Arias, Alejandro
+AU  - Giraldo, Francisco Eugenio López
+AU  - Zapata-Ochoa, Edison Andrés
+JO  - International Journal of Cognitive Computing in Engineering
+VL  - 7
+SP  - 26
+EP  - 39
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 2666-3074
+DO  - https://doi.org/10.1016/j.ijcce.2025.08.002
+UR  - https://www.sciencedirect.com/science/article/pii/S266630742500035X
+KW  - System architecture
+KW  - Quantum computing
+KW  - Artificial intelligence
+KW  - Machine learning
+KW  - Quantum optimization
+AB  - Quantum Computing (QC) and Artificial Intelligence (AI) have emerged as key technologies in the evolution of Industry 6.0, driving advancements in automation and advanced analytics, and process optimization. Their integration holds the potential to revolutionize sectors such as data science, healthcare, finance, and cybersecurity by enabling faster and more efficient computations through qubits, superposition, and quantum entanglement. However, the lack of structured knowledge regarding specific QC methodologies and applications in AI hinders its optimal implementation and development. Consequently, this study aims to identify the applications and variables associated with QC-AI integration. To this end, a systematic literature review was conducted following the PRISMA 2020 methodology, drawing on studies from Scopus and Web of Science databases. This enabled the analysis of trends, limitations, and opportunities in this technological convergence. This study aims to systematically examine the intersection of quantum computing and artificial intelligence by identifying the key technological features, integration requirements, and sectoral applications that define the current state of the field. The review contributes by mapping existing research, highlighting methodological approaches, and revealing gaps that may guide targeted advancements in hybrid quantum AI systems. The insights generated have the potential to accelerate innovation in high-impact domains such as healthcare, finance, energy, and cybersecurity. The findings indicate that the main advances in QC applied to AI focus on quantum optimization, Quantum Machine Learning (QML), and post-quantum cryptography. Notably, sectors such as energy, healthcare, and finance have shown significant progress in adopting these technologies. For example, in healthcare, QML has been applied to simulate molecular interactions to accelerate drug discovery, and in finance, it enhances predictive models for market behavior. The study concludes that although QC demonstrates substantial potential to enhance AI, its broader adoption remains constrained by reliance on NISQ hardware, the need for effective error correction, and the limited scalability of hybrid quantum classical algorithms. Addressing these challenges will be essential to establishing QML as a cornerstone of technological innovation and digital transformation. Additionally, this review introduces an integrative framework that categorizes key AI QC convergence dimensions and proposes a classification of application areas based on technical requirements and algorithmic capabilities. These contributions aim to guide future experimental validations and hybrid model development.
+ER  - 
